@@ -1,1 +1,2 @@
-function login() { return 'Option A'; }
+function login() { return 'Option B'; }
+
